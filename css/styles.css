@@ -4,10 +4,10 @@
 }
 h1 {
 	text-align: center;
-	font-size: 75%;
+	font-size: 175%;
 }
 .tag {
-	font-size: 25%;
+	font-size: 125%;
 	border: 1px solid black;
 }
 .box {
@@ -16,6 +16,7 @@ h1 {
 }
 #chickenTag {
 	background-color: red;
+	float: right;
 }
 #beefTag {
 	background-color: green;
