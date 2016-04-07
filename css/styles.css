@@ -4,13 +4,22 @@
 }
 h1 {
 	text-align: center;
+	font-size: 75%;
 }
-#chicken {
+.tag {
+	font-size: 25%;
+	border: 1px solid black;
+}
+.box {
+	border: 1px solid black;
+	background-color: gray;
+}
+#chickenTag {
 	background-color: red;
 }
-#beef {
+#beefTag {
 	background-color: green;
 }
-#sushi {
+#sushiTag {
 	background-color: blue;
 }
