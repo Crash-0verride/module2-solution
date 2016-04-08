@@ -9,9 +9,9 @@ h1 {
 p {
 	padding: 10px;
 }
-}
+
 #chickenTag {
-	background-color: green;
+	background-color: red;
 }
 #beefTag {
 	background-color: green;
