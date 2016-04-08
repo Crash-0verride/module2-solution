@@ -11,7 +11,7 @@ p {
 }
 }
 #chickenTag {
-	background-color: red;
+	background-color: green;
 }
 #beefTag {
 	background-color: green;
@@ -22,8 +22,9 @@ p {
 .tag {
 	font-size: 125%;
 	border: 1px solid black;
-	float: right;
-	width: 20%;
+	position: absolute;
+	right: 0px;
+	width: 25px;
 	text-align: center;
 	min-width: 78px;
 }
@@ -38,6 +39,7 @@ p {
 	margin: auto;
 	background-color: gray;
 	border: 1px solid black;
+	position: relative;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
